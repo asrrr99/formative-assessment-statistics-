@@ -1,7 +1,5 @@
 # formative-assessment-statistics-
 This project involves a comprehensive Exploratory Data Analysis (EDA) and data preprocessing workflow on a dataset containing property prices in Bangalore
-# house-price
-# house-price
 
 # House Price Prediction using Machine Learning
  Project Overview
